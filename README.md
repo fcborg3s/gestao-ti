@@ -26,13 +26,13 @@ Gestão TI foi desenvolvido para fazer o controle dos ativos de tecnologia da em
 
   ## Dashboad do sistema 
 
-  ![Dashboard](dash.jpg)
+![dash](https://user-images.githubusercontent.com/46627840/141361419-e9b98967-499b-4bfe-ae3f-1089aba46fbf.JPG)
 
 
 
 
 
-## Tela Adicionar Nobreak
+  ## Tela Adicionar Nobreak
 
-![Adicionar nobreak](addNobreak.jpg)
+![addNobreak](https://user-images.githubusercontent.com/46627840/141361417-bcc931cc-fa86-48c1-adb4-3a453f7cadee.JPG)
 
