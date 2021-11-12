@@ -25,8 +25,8 @@ Gestão TI foi desenvolvido para fazer o controle dos ativos de tecnologia da em
    
 
   ## Dashboad do sistema 
-
-![dash](https://user-images.githubusercontent.com/46627840/141361419-e9b98967-499b-4bfe-ae3f-1089aba46fbf.JPG)
+  
+![dash](https://user-images.githubusercontent.com/46627840/141457801-ecd195fa-dd6f-4647-95dc-83ea3c450fd0.JPG)
 
 
 
